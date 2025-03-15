@@ -1,0 +1,7 @@
+name: KayeraCompass
+version: '1.0'
+main: software.kayera.kayeraCompass.KayeraCompass
+api-version: '1.21'
+authors: [Kayera]
+description: A lightweight compass tracker plugin for content creators!
+website: https://kayera.software/, https://kayera.tech/, https://kayera.uk/
